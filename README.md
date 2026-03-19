@@ -1,4 +1,4 @@
-# Flashcards
+# flashcards
 
 <p align="center">
   <strong>flashcards - A web application</strong>
